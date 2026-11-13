@@ -1,6 +1,6 @@
-<p align="center"><img src="https://raw.githubusercontent.com/ratulbmg/atomberg-api/main/docs/logo.png" width="128" alt="atomberg-api logo"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ratulbmg/ha-atomberg-integration/main/docs/logo.png" width="128" alt="ha-atomberg-integration logo"></p>
 
-# atomberg-api
+# ha-atomberg-integration
 
 Async Python client for the [Atomberg public cloud API](https://developer.atomberg-iot.com/).
 It supports Atomberg fans, water purifiers, and smart locks, and is used by the
@@ -11,7 +11,7 @@ This is an unofficial community library. It is not affiliated with or endorsed b
 ## Installation
 
 ```bash
-pip install atomberg-api
+pip install ha-atomberg-integration
 ```
 
 ## Usage
